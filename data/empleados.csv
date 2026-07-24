@@ -1,0 +1,4 @@
+id,nombre,edad,salario,activo
+1,Ana,28,2500.50,true
+2,Carlos,35,3200.00,false
+3,Luisa,,4100.75,true
