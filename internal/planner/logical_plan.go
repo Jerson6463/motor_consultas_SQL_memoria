@@ -1,5 +1,5 @@
 package planner
-
+//v2
 import (
 	"motor-consultas-sql/internal/parser"
 	"motor-consultas-sql/internal/storage"

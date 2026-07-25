@@ -1,6 +1,6 @@
 // Package planner traduce el AST de una consulta a un plan logico de operaciones.
 package planner
-
+//v2
 import (
 	"fmt"
 

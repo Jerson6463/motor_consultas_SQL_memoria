@@ -1,6 +1,6 @@
 package parser
 
-// Query representa una consulta SELECT analizada.
+// Query representa una consulta SELECT analizadav2.
 type Query struct {
 	Select  []SelectItem
 	From    FromItem
@@ -10,6 +10,7 @@ type Query struct {
 	OrderBy []SortTerm
 	Limit   *int
 	Offset  *int
+
 }
 
 // SelectItem es un elemento de la lista de seleccion: una expresion con un
